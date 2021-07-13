@@ -1,5 +1,8 @@
+import java.util.HashMap
+
 fun <T> T.myApply(f: T.() -> Unit): T {
-    TODO()
+        f()
+        return this
 }
 
 fun createString(): String {

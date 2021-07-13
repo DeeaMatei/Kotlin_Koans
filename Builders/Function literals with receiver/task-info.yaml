@@ -4,25 +4,25 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 66
-    length: 6
+  - offset: 65
+    length: 4
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 66
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: this % 2 == 0
-  - offset: 112
-    length: 6
+  - offset: 117
+    length: 12
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 112
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: this % 2 != 0
   text: |
     fun task(): List<Boolean> {
@@ -47,5 +47,8 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 13 Jul 2021 11:46:43 UTC
 record: -1
