@@ -1,0 +1,2 @@
+/home/andreeamatei/AndroidStudioProjects/Kotlin Koans/Collections/FlatMap/src/Shop.kt
+/home/andreeamatei/AndroidStudioProjects/Kotlin Koans/Collections/FlatMap/src/Task.kt

@@ -1,0 +1,2 @@
+/home/andreeamatei/AndroidStudioProjects/Kotlin Koans/Collections/Max min/src/Shop.kt
+/home/andreeamatei/AndroidStudioProjects/Kotlin Koans/Collections/Max min/src/Task.kt

@@ -1,0 +1,2 @@
+/home/andreeamatei/AndroidStudioProjects/Kotlin Koans/Collections/Sum/src/Shop.kt
+/home/andreeamatei/AndroidStudioProjects/Kotlin Koans/Collections/Sum/src/Task.kt
